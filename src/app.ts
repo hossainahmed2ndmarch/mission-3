@@ -25,7 +25,7 @@ app.get('/', (req: Request, res: Response, next: NextFunction) => {
 
 app.get('/error', async (req: Request, res: Response, next: NextFunction) => {
  try {
-  console.log(something);
+  // console.log(something);
   res.send("Welcome to ERROR WORLD");
  } catch (error) {
   next(error)

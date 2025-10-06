@@ -32,7 +32,7 @@ app.get('/', (req, res, next) => {
 });
 app.get('/error', (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        console.log(something);
+        // console.log(something);
         res.send("Welcome to ERROR WORLD");
     }
     catch (error) {
