@@ -1,0 +1,42 @@
+[
+ {
+  "id": 3,
+  "title": "Updated title text",
+  "description": "45-minute workout: push-ups, squats, pull-ups, and planks.",
+  "completed": false,
+  "category": "Workout",
+  "time": "11:30 AM"
+ },
+ {
+  "id": 4,
+  "title": "Dhuhr prayer & lunch",
+  "description": "Perform Dhuhr prayer, then eat a balanced meal with protein and carbs.",
+  "completed": false,
+  "category": "Spiritual & Nutrition",
+  "time": "12:15 PM"
+ },
+ {
+  "id": 5,
+  "title": "Martial arts practice",
+  "description": "1-hour session focusing on footwork, shadowboxing, and flexibility.",
+  "completed": false,
+  "category": "Martial Arts",
+  "time": "04:15 PM"
+ },
+ {
+  "id": 6,
+  "title": "Asr prayer",
+  "description": "Take a short break for Asr prayer and mental reset.",
+  "completed": false,
+  "category": "Spiritual",
+  "time": "04:00 PM"
+ },
+ {
+  "id": 7,
+  "title": "Evening study session",
+  "description": "Review programming concepts or read about army training fundamentals.",
+  "completed": false,
+  "category": "Study",
+  "time": "06:00 PM"
+ }
+]
